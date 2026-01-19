@@ -32,3 +32,6 @@
 *.app
 .vscode
 .pio
+
+# Secrets file - DO NOT COMMIT
+secrets.h

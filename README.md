@@ -1,4 +1,15 @@
-<h1 align = "center"> 🌟T-QT🌟</h1>
+<h1 align = "center"> esp32s3_t-qt_ff</h1>
+
+## Forking rationale
+
+This is a fork of Xinyuan-LilyGO/T-QT in order to be able to introduce modifications
+Checkout the commit messages to see what is going on here
+
+***
+--------
+
+
+<h1 align = "center"> T-QT</h1>
 
 ## Description
 
