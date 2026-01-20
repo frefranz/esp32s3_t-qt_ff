@@ -1,10 +1,14 @@
 <h1 align = "center"> esp32s3_t-qt_ff</h1>
 
-## Forking rationale
+## Forking
 
-This is a fork of Xinyuan-LilyGO/T-QT in order to be able to introduce modifications
-Checkout the commit messages to see what is going on here
+This is a fork of Xinyuan-LilyGO/T-QT in order to be able to introduce modifications.  
+Checkout the commit messages to see what is going on here!
+  
 
+Note: to select one of the examples in "./examples", edit "./platformio.ini" and activate one of the examples by removing the comment indicator  
+
+Below is the untouched README content from the source repo
 ***
 --------
 
